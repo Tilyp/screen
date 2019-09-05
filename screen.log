@@ -1,0 +1,15 @@
+nohup: ignoring input
+ * Serving Flask app "index" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://172.25.235.17:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 125-313-524
+ * Detected change in '/root/workspace/screen/index.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 618-773-633
+172.25.235.17 - - [30/Jan/2019 11:24:50] "POST /focus HTTP/1.1" 200 -
