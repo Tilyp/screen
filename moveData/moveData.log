@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "moveData.py", line 9, in <module>
-    carcur = car.cursor()
-  File "/root/workspace/moveData/con_oracle.py", line 22, in cursor
-    consor = self.connect().cursor()
-  File "/root/workspace/moveData/con_oracle.py", line 18, in connect
-    db = co.connect('dsjfx', 'dsjfx', tns)
-cx_Oracle.DatabaseError: ORA-28001: the password has expired
